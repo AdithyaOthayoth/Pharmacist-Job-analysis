@@ -1,0 +1,1 @@
+"This project involves a straightforward data analysis of the pharmacy job sector using Python's pandas and matplotlib libraries, focusing on creating simple visualizations like line plots, bar graphs, and pie charts to provide clear insights into the data."
